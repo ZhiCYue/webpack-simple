@@ -5,4 +5,4 @@ webpack 原理浅析
 - @babel/parser
 - @babel/traverse
 
-实现了简化版的webpack.
+实现简化版的webpack.
